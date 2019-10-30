@@ -1,0 +1,3 @@
+[submodule "docs.nextjs.com"]
+	path = docs.nextjs.com
+	url = git@github.com:nestjs/docs.nestjs.com.git
